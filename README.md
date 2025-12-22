@@ -23,7 +23,7 @@ The EA should be optimized using the **Fast Genetic Based Algorithm** with **Com
 ### Step 1: Historical Data Preparation
 1. Download **minimum 1 year** of high-quality historical data for your chosen symbol
 2. Ensure data quality is good (no gaps, accurate tick data)
-3. Use M15 or H1 timeframe for optimization (recommended)
+3. Use 1H or H4 timeframe for optimization (recommended)
 
 ### Step 2: Run Optimization
 1. Open MetaTrader 5 Strategy Tester (Ctrl+R)
